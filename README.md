@@ -1,3 +1,11 @@
+# About
+This project is completely based on Traversy Media's video and code.
+Video: https://www.youtube.com/watch?v=XuFDcZABiDQ
+Code: https://github.com/bradtraversy/expense-tracker-react
+
+
+# Create React App Readme
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
