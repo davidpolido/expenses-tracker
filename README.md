@@ -1,5 +1,6 @@
 # About
 This project is completely based on Traversy Media's video and code.
+
 Video: https://www.youtube.com/watch?v=XuFDcZABiDQ
 Code: https://github.com/bradtraversy/expense-tracker-react
 
