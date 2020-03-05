@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/expenses-tracker/static/css/main.d0e32a8e.chunk.css",
-    "main.js": "/expenses-tracker/static/js/main.3400d1da.chunk.js",
-    "main.js.map": "/expenses-tracker/static/js/main.3400d1da.chunk.js.map",
-    "runtime-main.js": "/expenses-tracker/static/js/runtime-main.8f6ee18e.js",
-    "runtime-main.js.map": "/expenses-tracker/static/js/runtime-main.8f6ee18e.js.map",
-    "static/js/2.d5bd1c2e.chunk.js": "/expenses-tracker/static/js/2.d5bd1c2e.chunk.js",
-    "static/js/2.d5bd1c2e.chunk.js.map": "/expenses-tracker/static/js/2.d5bd1c2e.chunk.js.map",
-    "index.html": "/expenses-tracker/index.html",
-    "precache-manifest.1ecc6da37e16fbf07422c7d5678ad463.js": "/expenses-tracker/precache-manifest.1ecc6da37e16fbf07422c7d5678ad463.js",
-    "service-worker.js": "/expenses-tracker/service-worker.js",
-    "static/css/main.d0e32a8e.chunk.css.map": "/expenses-tracker/static/css/main.d0e32a8e.chunk.css.map",
-    "static/js/2.d5bd1c2e.chunk.js.LICENSE.txt": "/expenses-tracker/static/js/2.d5bd1c2e.chunk.js.LICENSE.txt"
+    "main.css": "/expense-tracker/static/css/main.d0e32a8e.chunk.css",
+    "main.js": "/expense-tracker/static/js/main.3400d1da.chunk.js",
+    "main.js.map": "/expense-tracker/static/js/main.3400d1da.chunk.js.map",
+    "runtime-main.js": "/expense-tracker/static/js/runtime-main.99c4aa5f.js",
+    "runtime-main.js.map": "/expense-tracker/static/js/runtime-main.99c4aa5f.js.map",
+    "static/js/2.d5bd1c2e.chunk.js": "/expense-tracker/static/js/2.d5bd1c2e.chunk.js",
+    "static/js/2.d5bd1c2e.chunk.js.map": "/expense-tracker/static/js/2.d5bd1c2e.chunk.js.map",
+    "index.html": "/expense-tracker/index.html",
+    "precache-manifest.62a28ab0eb1328acbe392b4d05b9ed75.js": "/expense-tracker/precache-manifest.62a28ab0eb1328acbe392b4d05b9ed75.js",
+    "service-worker.js": "/expense-tracker/service-worker.js",
+    "static/css/main.d0e32a8e.chunk.css.map": "/expense-tracker/static/css/main.d0e32a8e.chunk.css.map",
+    "static/js/2.d5bd1c2e.chunk.js.LICENSE.txt": "/expense-tracker/static/js/2.d5bd1c2e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f6ee18e.js",
+    "static/js/runtime-main.99c4aa5f.js",
     "static/js/2.d5bd1c2e.chunk.js",
     "static/css/main.d0e32a8e.chunk.css",
     "static/js/main.3400d1da.chunk.js"
